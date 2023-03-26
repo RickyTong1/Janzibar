@@ -60,7 +60,7 @@ Members of group:eng are viewers of doc:readme doc:readme is in folder:A
 
 ## 架构和实现
 
-![IMG_0272](docs/IMG_0272.jpeg)
+![IMG_0272](IMG_0272.jpeg)
 
 **aclservers**在响应客户端请求的过程中读取和写入这些数据库。
 
