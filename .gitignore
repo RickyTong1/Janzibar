@@ -1,0 +1,21 @@
+HELP.md
+.mvn/wrapper
+target/
+target/*
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.tar
+mybatis-generator-config.xml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/node_modules/
+
+### VS Code ###
+.vscode/
+/logs/
+dist/
